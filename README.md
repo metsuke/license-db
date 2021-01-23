@@ -1,2 +1,2 @@
 # license-db
-An structured license database focused on what can or cannot do under each of them
+An structured license database focused on what can or cannot be done under the jurisdiction of each one
